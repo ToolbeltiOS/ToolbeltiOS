@@ -1,0 +1,181 @@
+Toolbelt - Professional Invoicing for Contractors
+
+Support Documentation
+
+Welcome to Toolbelt
+
+Toolbelt is a professional invoicing app designed specifically for contractors, freelancers, and small business owners. Create beautiful quotes and invoices in seconds, with powerful features like AI-powered descriptions, voice input, and offline functionality.
+First-Time Setup.
+
+When you first open Toolbelt, you'll be guided through creating your business profile. This information will appear on all your quotes and invoices:
+	•	Business name and contact information
+	•	Logo (optional, but recommended for a professional look)
+	•	Currency and tax rate
+	•	Default payment terms
+	•	Banking details for client payments
+
+You can update these details anytime from Settings > Business Profile.
+
+Creating Your First Invoice
+
+Quick Start Guide
+	•	Tap the + button on the home screen
+	•	Choose Quote or Invoice
+	•	Enter your client's information
+	•	Add line items with descriptions, quantities, and prices
+	•	Review the automatically calculated totals
+	•	Preview, then share or save as PDF
+
+Understanding Quotes vs Invoices
+Quotes are estimates you send to potential clients before work begins. They show your proposed pricing and help clients make decisions.
+Invoices are payment requests sent after work is completed. They include payment terms and banking details for client payments.
+
+Key Features:
+AI-Powered Descriptions
+Save time with intelligent description suggestions. When adding line items, tap the AI icon to:
+	•	Generate professional descriptions from simple inputs
+	•	Expand brief notes into detailed service descriptions
+	•	Maintain consistent, professional language across all invoices
+
+The AI understands contractor terminology and will suggest descriptions that match your industry and service type.
+
+Voice Input
+When you're on the job site and need to create an invoice quickly, use voice input:
+	•	Tap the microphone icon in any text field
+	•	Speak your description naturally
+	•	The app converts your speech to text instantly
+	•	Edit as needed before saving
+
+Voice input works great when you're wearing gloves, have dirty hands, or simply want to work faster.
+
+Offline Mode
+Toolbelt works anywhere, even without internet connection:
+	•	Create invoices and quotes in basements, remote locations, or anywhere with poor signal
+	•	All data is stored locally on your device
+	•	Generate and save PDFs without needing connectivity
+	•	Share documents when you're back online
+
+Note: AI features and voice input require internet connection, but all other functionality works offline.
+
+Professional PDF Generation
+Every quote and invoice is automatically formatted as a beautiful, professional PDF:
+	•	Your business logo prominently displayed
+	•	Clean, easy-to-read layout
+	•	Automatic calculations with no errors
+	•	Tax and subtotal breakdowns
+	•	Payment terms and banking details included
+
+Subscription Information - Free vs Pro Features
+
+Free Plan:
+	•	Create up to 3 quotes or invoices per month
+	•	Access to all features
+	•	Professional PDF generation
+	•	Perfect for occasional users or trying out the app
+
+Pro Subscription ($14.99/month or $99.99/year):
+	•	Unlimited quotes and invoices
+	•	Priority customer support
+	•	Save 33% with annual billing
+
+Managing Your Subscription
+To upgrade to Pro, go to Settings > Subscription and choose your preferred billing period. Subscriptions are managed through your App Store account and will automatically renew unless cancelled at least 24 hours before the end of the current period.
+Your free monthly quota resets on the first day of each month, regardless of when you signed up.
+
+Managing Clients and Documents
+
+Saving Client Information
+When you create a quote or invoice, Toolbelt automatically saves the client information for future use. This means:
+	•	You only need to enter client details once
+	•	Future documents for the same client are faster to create
+	•	Client information can be updated anytime from the client list
+
+Finding Past Invoices
+All your quotes and invoices are stored in the app and easily searchable:
+	•	Browse by date with newest first
+	•	Search by client name
+	•	Filter by document type (quotes or invoices)
+	•	Tap any document to view, edit, or reshare
+
+Editing and Duplicating
+To edit an existing document, tap it from your list and select Edit. Changes are saved automatically.
+To create a similar document, use the Duplicate feature. This copies all details into a new document that you can modify as needed—perfect for recurring work with the same client.
+
+Customization
+Business Profile Settings
+Keep your business information current in Settings > Business Profile:
+	•	Business name, phone, email, and address
+	•	Logo (tap to upload a new image)
+	•	Currency preference
+	•	Default tax rate (applied to all new documents)
+	•	Payment terms (e.g., 'Net 30', 'Due on receipt')
+	•	Banking details for client payments
+
+Document Preferences
+You can customize individual quotes and invoices:
+	•	Override the default tax rate for specific clients
+	•	Adjust payment terms per document
+	•	Add custom notes or terms and conditions
+
+Sharing and Exporting
+Sending to Clients
+When you're ready to send a quote or invoice:
+	•	Tap Preview to see the final PDF
+	•	Tap Share to open your device's share menu
+	•	Choose how to send: email, text message, or any other app
+
+The PDF is automatically generated with all your information formatted professionally.
+
+Saving to Files
+To keep a copy on your device or in cloud storage:
+	•	Tap Share and choose 'Save to Files'
+	•	Select your destination (iCloud, Dropbox, etc.)
+	•	The PDF will be available on all your devices if using cloud storage
+
+Troubleshooting
+
+Common Issues
+
+My logo doesn't appear on invoices
+Make sure you've uploaded a logo in Settings > Business Profile. Supported formats are PNG and JPEG. If the logo still doesn't appear, try re-uploading with a smaller file size (under 2MB recommended).
+
+Calculations seem incorrect
+Double-check your tax rate in Business Profile settings. The app automatically calculates tax based on your subtotal. If you need to exclude certain items from tax, this feature is coming in a future update.
+
+Voice input isn't working
+Ensure you've granted microphone permissions to Toolbelt in your device Settings > Privacy > Microphone. Voice input also requires an internet connection to process speech.
+
+I've reached my free monthly limit
+Free users can create 3 documents per month. Your quota resets on the first day of each month. To create unlimited documents, upgrade to Pro in Settings > Subscription.
+
+Can't find a saved document
+Use the search function on the home screen to find documents by client name. You can also filter by document type (quotes or invoices) to narrow your search.
+
+Data and Privacy
+All your data is stored locally on your device and never sent to external servers (except when using AI features or voice input, which require temporary server processing). You maintain complete control over your business information and client data.
+To back up your data, we recommend regularly saving PDFs to cloud storage or using your device's regular backup system.
+
+Support and Contact
+Getting Help
+If you need assistance or have questions not covered in this guide:
+	•	Email support at: ToolbeltiOS@gmail.com
+	•	Pro subscribers receive priority support with faster response times
+
+Feature Requests and Feedback
+We're constantly improving Toolbelt based on user feedback. To suggest new features or report issues:
+	•	Email: ToolbeltiOS@gmail.com
+	•	Please leave a positive review, if you have a bad experience, please contact us so we can make it right. 
+
+Coming Soon
+We're actively developing new features based on your feedback:
+	•	Advanced reporting and analytics
+	•	Expense tracking
+	•	Recurring invoices
+	•	Multiple tax rates per document
+	•	Custom invoice templates
+	•	Payment status tracking
+
+Thank you for choosing Toolbelt!
+We're committed to helping contractors and small business owners manage their invoicing with ease.
+
+Version 1.0 | 2026 Toolbelt
